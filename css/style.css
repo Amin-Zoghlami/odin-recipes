@@ -1,0 +1,38 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+.index {
+    background-color: lightgray;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.miso {
+    background-color: orange;
+}
+
+.burger {
+    background-color: palevioletred;
+}
+
+.pie {
+    background-color: tan;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link {
+    font-size: 35px;
+    list-style-type: none;
+    margin: 100px;
+}
